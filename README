@@ -1,1 +1,6 @@
-This repo contains the codes for Task 1.a and 1.b of training Part 1.
+This code scrapes data from following websites based on the provided keyword and prints out their headings.
+
+http://reddit.com/r/programming
+http://news.ycombinator.com
+http://www.theguardian.com/us/technology
+http://www.nytimes.com/pages/technology/index.html​
